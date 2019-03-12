@@ -1,5 +1,7 @@
 @import "bootstrap";
 @import url('https://fonts.googleapis.com/css?family=Sniglet');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
 
 
 .clear {
@@ -39,7 +41,7 @@ font-size: 22px;
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
-  font-family:'kaushan_scriptregular';
+  font-family: 'Kaushan Script', cursive;
   font-weight: bold; 
 }
 
@@ -52,13 +54,13 @@ hr {
 }
 
 h1 {
-  font-family:'kaushan_scriptregular';
+ font-family: 'Kaushan Script', cursive;
   font-weight: bold;
   font-size: 48px;
 }
 
 h3 {
-  font-family:'alex_brushregular';
+  font-family: 'Dancing Script', cursive;
   font-weight: bold;
 }
 
